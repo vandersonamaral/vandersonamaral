@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Welcome to my GitHub! I'm a student of Systems Analysis and Development, currently in the 3rd semester. I'm always looking to learn and grow in my career as a developer.</h3>
+<h3 align="left">Welcome to my GitHub! I'm a student of Systems Analysis and Development, currently in the 3rd period. I'm always looking to learn and grow in my career as a developer.</h3>
 
 ###
 
