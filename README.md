@@ -1,8 +1,80 @@
-<h1 align="left">Olá! Eu sou o Vanderson 👋</h1>
-<h3 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 6º período. Estou sempre buscando aprender e crescer na minha carreira como desenvolvedor.</h3>
-<h3 align="left">Aqui você encontrará diversos projetos que refletem meu aprendizado e paixão pelo desenvolvimento de software. Estou trabalhando com várias tecnologias, e explorando essas ferramentas para aprimorar minhas habilidades de desenvolvedor de software .</h3>
-<h3 align="left">Sinta-se à vontade para explorar meus repositórios e colaborar em qualquer projeto que te interesse. Estou aberto a feedbacks e contribuições que possam melhorar meu trabalho e minhas habilidades.<br><br>Vamos codar juntos e construir algo incrível!</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vandersonamaral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vandersonamaral&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="30" alt="mariadb logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" /> </div>
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /> <img width="12" /> <i class="bx bx-line-chart"></i> <!-- Ícone de gráfico -->
-<div align="left"> <a href="https://www.linkedin.com/in/vanderson-lopes-amaral/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> </div>
+# 👨‍💻 Vanderson Lopes Amaral
+
+<div align="center">
+  
+### Desenvolvedor Full Stack | Estudante de ADS 🎓
+
+*"Transformando café em código desde 2023 ☕→💻"*
+
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente no 6º período de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web e sempre explorando novas tecnologias.
+
+💡 **O que você encontra aqui:**
+- 🎯 Projetos práticos que refletem meu aprendizado
+- 🔬 Experimentos com diferentes tecnologias
+- 🤝 Código aberto para colaboração
+
+---
+
+## ⚡ Tecnologias & Ferramentas
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-Visite_meu_site-5865F2?style=for-the-badge)](https://amaraldev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanderson-lopes-amaral/)
+
+![](https://komarev.com/ghpvc/?username=vandersonlopes&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil)
+
+</div>
+
+---
+
+<div align="center">
+  
+**💬 Aberto para colaborações e novos desafios!**
+
+</div>
