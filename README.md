@@ -67,8 +67,6 @@ Desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-Visite_meu_site-5865F2?style=for-the-badge)](https://amaraldev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanderson-lopes-amaral/)
 
-![](https://komarev.com/ghpvc/?username=vandersonlopes&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil)
-
 </div>
 
 ---
