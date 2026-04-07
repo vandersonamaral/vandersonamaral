@@ -12,7 +12,7 @@ _"Transformando café em código desde 2023 ☕→💻"_
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente no 6º período de Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
+Desenvolvedor apaixonado por transformar ideias em código funcional. Graduado em Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
 
 💡 **O que você encontra aqui:**
 
