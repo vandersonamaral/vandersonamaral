@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Desenvolvedor Full Stack | Estudante de ADS 🎓
+### Desenvolvedor Full Stack
 
 _"Transformando café em código desde 2023 ☕→💻"_
 
