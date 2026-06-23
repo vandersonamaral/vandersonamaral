@@ -12,13 +12,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 ```java
 public class Vanderson extends Developer {
 
     String name        = "Vanderson Lopes Amaral";
-    String education   = "ADS — IFNMG";
+    String education   = "Análise e Desenvolvimento de Sistema — IFNMG";
     String focus       = "Full Stack | Back-end com Java & Spring Boot";
     String[] stack     = { "Java", "Spring Boot", "Node.js", "TypeScript", "React Native" };
     String portfolio   = "https://amaraldev.me";
@@ -28,7 +28,7 @@ public class Vanderson extends Developer {
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
@@ -61,21 +61,9 @@ public class Vanderson extends Developer {
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vandersonamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonamaral&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&hide=php,blade,smarty"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vandersonamaral&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vandersonamaral&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" />
-<br/>
 
 <img src="./github-metrics.svg" width="100%"/>
 
