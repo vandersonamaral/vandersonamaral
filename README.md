@@ -75,6 +75,9 @@ public class Vanderson extends Developer {
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandersonamaral&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" />
+<br/>
+
+<img src="./github-metrics.svg" width="100%"/>
 
 </div>
 
