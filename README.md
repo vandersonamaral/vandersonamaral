@@ -1,79 +1,91 @@
-# 👨‍💻 Vanderson Lopes Amaral
-
 <div align="center">
-  
-### Desenvolvedor Full Stack
 
-_"Transformando café em código desde 2023 ☕→💻"_
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Vanderson%20Amaral&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Node.js%20%E2%80%A2%20React&descAlignY=60&descColor=a9b1d6" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanderson-lopes-amaral)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://amaraldev.me)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/vandersonamaral)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor apaixonado por transformar ideias em código funcional. Graduado em Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
+```java
+public class Vanderson extends Developer {
 
-💡 **O que você encontra aqui:**
-
-- 🎯 Projetos práticos que refletem meu aprendizado
-- 🔬 Experimentos com diferentes tecnologias e stacks
-- 🤝 Código aberto para colaboração
-
----
-
-## ⚡ Tecnologias & Ferramentas
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-</td>
-</tr>
-</table>
+    String name        = "Vanderson Lopes Amaral";
+    String education   = "ADS — IFNMG";
+    String focus       = "Full Stack | Back-end com Java & Spring Boot";
+    String[] stack     = { "Java", "Spring Boot", "Node.js", "TypeScript", "React Native" };
+    String portfolio   = "https://amaraldev.me";
+    boolean openToWork = true;
+}
+```
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-Visite_meu_site-5865F2?style=for-the-badge)](https://amaraldev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanderson-lopes-amaral/)
+**Back-end**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Front-end & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Banco de Dados & Ferramentas**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vandersonamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonamaral&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&hide=php,blade,smarty"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vandersonamaral&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vandersonamaral&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-**💬 Aberto para colaborações e novos desafios!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=120&section=footer&text=Open%20to%20work%20%F0%9F%9A%80&fontSize=22&fontColor=c0caf5&fontAlignY=65"/>
+
+**Aberto a oportunidades de Back-end e Full Stack Júnior**
+<br/>
+[amaraldev.me](https://amaraldev.me) · [LinkedIn](https://linkedin.com/in/vanderson-lopes-amaral)
 
 </div>
