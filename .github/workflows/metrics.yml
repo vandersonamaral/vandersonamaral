@@ -2,63 +2,14 @@ name: Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: github-metrics.svg
-
-          # 🎯 BASE (estrutura principal)
-          base: header, activity, repositories, metadata
-
-          # 📅 CALENDÁRIO DE CONTRIBUIÇÕES
-          plugin_isocalendar: 'yes'
-          plugin_isocalendar_duration: full-year
-
-          # 💻 LINGUAGENS
-          plugin_languages: 'yes'
-          plugin_languages_limit: 8
-          plugin_languages_threshold: '0%'
-          plugin_languages_colors: github
-          plugin_languages_sections: most-used
-
-          # 🏆 ACHIEVEMENTS (nível gamificado)
-          plugin_achievements: 'yes'
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: 'C'
-
-          # 📊 ATIVIDADE DETALHADA
-          plugin_activity: 'yes'
-          plugin_activity_limit: 5
-
-          # ⭐ REPOSITÓRIOS IMPORTANTES
-          plugin_repositories: 'yes'
-          plugin_repositories_featured: 'vandersonamaral/seu-projeto,vandersonamaral/outro-projeto'
-
-          # 🧠 FOCUS VISUAL (mais bonito)
-          config_display: large
-          config_timezone: America/Sao_Paulo
-          config_octicon: 'yes'
-name: Metrics
-
-on:
-  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -66,34 +17,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
 
-          # 🎯 BASE (estrutura principal)
+          # 🎯 BASE
           base: header, activity, repositories, metadata
 
-          # 📅 CALENDÁRIO DE CONTRIBUIÇÕES
+          # 📅 CALENDÁRIO
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           # 💻 LINGUAGENS
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
           plugin_languages_sections: most-used
 
-          # 🏆 ACHIEVEMENTS (nível gamificado)
+          # 🏆 ACHIEVEMENTS
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
 
-          # 📊 ATIVIDADE DETALHADA
+          # 📊 ATIVIDADE
           plugin_activity: yes
           plugin_activity_limit: 5
 
-          # ⭐ REPOSITÓRIOS IMPORTANTES
-          plugin_repositories: yes
-          plugin_repositories_featured: vandersonamaral/seu-projeto,vandersonamaral/outro-projeto
-
-          # 🧠 FOCUS VISUAL (mais bonito)
+          # 🎨 VISUAL
           config_display: large
           config_timezone: America/Sao_Paulo
           config_octicon: yes
